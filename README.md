@@ -63,4 +63,7 @@ This file has got all the errors that we encountered while analysing, fixing and
     Change wandb_dir to path in your computer
     Remove global variables (136, 140 and 145)
 
-15. If you get an path error then thats beacuse of the missing file "setup_final". This can be fixed by contacting the author of the         project either via LinkedIn or mailing her.
+15. If you get an path error then thats beacuse of the missing file "setup_final". This can be fixed by contacting the author of the project either via LinkedIn or mailing her.
+16. We are including the links to the thesis paper and the original source code of this project for your reference.
+    https://github.com/ey-l/Workload-Aware-SQL-Query-Recommendation-Using-Deep-Learning/tree/main
+    https://openproceedings.org/2023/conf/edbt/paper-173.pdf
